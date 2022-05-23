@@ -102,3 +102,17 @@ as a chef,
 I want to add my feedback about any customer/situation
 so that I can ensure the quality of service in future
 
+---
+
+### User Journey
+
+- browse meals and chefs
+- after showing interest the user can create account
+- add meals to the menu and choose a specific chef
+- specify other order details quantity, time, address, payment method
+- create an order, receive an email with on-hold  status 
+- the chef will respond to the order requested
+- if accepted, the user will receive an acceptance email with other details like cooking equipment and ingredients required, chef arrival and departure time, and if action needs to be taken from the user side
+- user receives the service and completes order requirements and payment
+- both user and chef can left feedback about the process
+
